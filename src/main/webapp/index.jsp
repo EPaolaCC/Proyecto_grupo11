@@ -16,7 +16,7 @@
 
 <form action="ServeletLogin" method="post" class="formulario">
 
-<h1>Bienvenidos a la Tienda Genérica</h1>
+<h1>Los Hakeamos jajaja</h1>
  <div class="contenedor">
 
 	<div class="input-contenedor">
